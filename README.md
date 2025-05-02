@@ -1,6 +1,8 @@
-# QuasiCopula reproducibility 
+# ApproxCopula reproducibility 
 
-Scripts to reproduce the experiments performed for the [QuasiCopula](https://github.com/OpenMendel/QuasiCopula.jl) manuscript:
+Note: Our package has been renamed from QuasiCopula.jl to [ApproxCopula](https://github.com/OpenMendel/ApproxCopula.jl)
+
+Scripts to reproduce the experiments performed for the [ApproxCopula](https://github.com/OpenMendel/ApproxCopula.jl) manuscript:
 
 - `MSE` : Scripts for reproducing simulation studies comparing with MixedModels.jl. It can run with `QuasiCopula` v0.1.0.
 - `nb_vs_Rpackages` : Scripts for negative binomial random intercept GLMM simulation study comparison with R packages `lme4`, `glmmTMB`, `GLMMadaptive`. It can run with `QuasiCopula` v0.1.0.
